@@ -1,0 +1,8 @@
+[
+  {
+    "project": "dcguy1982",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "kitkat-cos"
+  }
+]
